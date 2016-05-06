@@ -17,7 +17,6 @@ Requirements
 * [Python2](http://python.org)
 * [exec function](http://php.net/manual/en/function.exec.php)
 
-
 Additional
 --------------------
 * 注意及时修改class_cache.php与class_cache_announce.php中第195行，选择合适的缓存器
